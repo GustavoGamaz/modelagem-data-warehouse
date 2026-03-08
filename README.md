@@ -24,7 +24,7 @@ Aplicar conceitos de modelagem de dados e normalização para organizar e estrut
 
 O diagrama abaixo representa a estrutura do banco de dados modelado para o projeto.
 
-![Diagrama Data Warehouse](diagrama_data_warehouse.jpg)
+![Diagrama Data Warehouse](diagrama_warehouse.jpg)
 
 ## Autor
 Gustavo Vitor Santos da Gama
