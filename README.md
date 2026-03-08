@@ -11,7 +11,6 @@ Aplicar conceitos de modelagem de dados e normalização para organizar e estrut
 - Diagrama de entidades e relacionamentos
 
 ## Ferramentas utilizadas
-- SQL
 - Modelagem de dados
 - Diagramação de banco
 
